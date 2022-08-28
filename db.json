@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Submit CV on Resumeworded",
+      "day": "March 24th at 4pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Post content on Instagram",
+      "day": "March 25th at 8pm",
+      "reminder": true
+    },
+    {
+      "text": "got to church",
+      "day": "monady",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
